@@ -1,6 +1,6 @@
 Name:		kdegraphics-strigi-analyzer
 Summary:	Strigi plugins
-Version:	4.10.1
+Version:	4.10.2
 Release:	1
 Epoch:		2
 Group:		Graphical desktop/KDE
@@ -33,6 +33,9 @@ Strigi plugin for dvi & tiff.
 %makeinstall_std -C build
 
 %changelog
+* Wed Apr 03 2013 Andrey Bondrov <andrey.bondrov@rosalab.ru> 2:4.10.2-1
+- New version 4.10.2
+
 * Sat Mar 09 2013 Andrey Bondrov <andrey.bondrov@rosalab.ru> 2:4.10.1-1
 - New version 4.10.1
 
