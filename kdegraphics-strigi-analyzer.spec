@@ -1,6 +1,6 @@
 Name:		kdegraphics-strigi-analyzer
 Summary:	Strigi plugins
-Version:	15.08.3
+Version:	15.12.0
 Release:	1
 Epoch:		2
 Group:		Graphical desktop/KDE
