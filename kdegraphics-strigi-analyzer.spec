@@ -5,7 +5,7 @@ Release:	1
 Epoch:		2
 Group:		Graphical desktop/KDE
 License:	GPLv2 LGPLv2
-URL:		http://www.kde.org
+URL:		https://www.kde.org
 Source:		http://download.kde.org/stable/applications/%{version}/src/%{name}-%{version}.tar.xz
 BuildRequires:	kdelibs4-devel
 BuildRequires:	tiff-devel
